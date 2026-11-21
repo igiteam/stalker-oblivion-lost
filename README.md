@@ -1,3 +1,108 @@
+## stalker-oblivion-lost
+# S.T.A.L.K.E.R - Oblivion Lost
+Based on original  Build 1114 
+
+
+## Github Treeview
+[https://treegit.macosxjs.com/?url=igiteam/stalker-oblivion-lost](https://treegit.macosxjs.com/?url=igiteam/stalker-oblivion-lost)
+
+## Github Tree Api Direct JSON
+[https://api.github.com/repos/igiteam/stalker-oblivion-lost/git/trees/main?recursive=1](https://api.github.com/repos/igiteam/stalker-oblivion-lost/git/trees/main?recursive=1)
+
+
+
+[![S.T.A.L.K.E.R. Oblivion Lost: Build 1114 - All Weapons](https://img.youtube.com/vi/8B4xZpFzqyE/maxresdefault.jpg)](https://ytembed.macosxjs.com/?OEI0eFpwRnpxeUU)
+
+[![S.T.A.L.K.E.R.: Oblivion Lost - The first movie](https://img.youtube.com/vi/KGVjZxFQXaE/maxresdefault.jpg)](https://ytembed.macosxjs.com/?S0dWalp4RlFYYUU)
+
+[![S.T.A.L.K.E.R. Oblivion Lost: build 1114 demo2_zakat](https://img.youtube.com/vi/WV4HR6Sle_A/maxresdefault.jpg)](https://ytembed.macosxjs.com/?V1Y0SFI2U2xlX0E)
+
+[![STALKER - build 1114 - Escape](https://img.youtube.com/vi/QYN9tamvVUs/maxresdefault.jpg)](https://ytembed.macosxjs.com/?UVlOOXRhbXZWVXM)
+
+[![S.T.A.L.K.E.R.: Oblivion Lost build 1844 original springboard anomaly](https://img.youtube.com/vi/u6NEmweElLk/maxresdefault.jpg)](https://ytembed.macosxjs.com/?dTZORW13ZUVsTGs)
+
+[![S.T.A.L.K.E.R.: Oblivion Lost - Build 1154 (Demo August 22nd, 2002)](https://img.youtube.com/vi/ajFwmkuLLZQ/maxresdefault.jpg)](https://ytembed.macosxjs.com/?YWpGd21rdUxMWlE)
+
+[![S.T.A.L.K.E.R. Builds 1917, 1925, 1964 and 1971 (2004)](https://img.youtube.com/vi/BxUvYWP5jzg/maxresdefault.jpg)](https://ytembed.macosxjs.com/?QnhVdllXUDVqemc)
+
+[![STALKER Alpha Build 1935 - Gameplay 2004](https://img.youtube.com/vi/Z0JwJXiJQh4/maxresdefault.jpg)](https://ytembed.macosxjs.com/?WjBKd0pYaUpRaDQ)
+
+[![S.T.A.L.K.E.R.: Oblivion Lost - Build 1844 - Walkthrough](https://img.youtube.com/vi/oCmcof5b62M/maxresdefault.jpg)](https://ytembed.macosxjs.com/?b0NtY29mNWI2Mk0)
+
+[![S.T.A.L.K.E.R. Oblivion Lost Trailer 2002](https://img.youtube.com/vi/mVZ3wgHQHzg/maxresdefault.jpg)](https://ytembed.macosxjs.com/?bVZaM3dnSFFIemc)
+
+[![S.T.A.L.K.E.R.: Oblivion Lost - 2003 Tech Trailer](https://img.youtube.com/vi/oqQt-C6KB_8/maxresdefault.jpg)](https://ytembed.macosxjs.com/?b3FRdC1DNktCXzg)
+
+## WS11WineCX20.0.4 (MacOSX Big Sur 32bit)
+[WS11WineCX20.0.4.tar.7z](https://github.com/vitor251093/porting-kit-engines/releases/download/wineskin/WS11WineCX20.0.4.tar.7z)
+
+[![wine windows games on macosx](https://raw.githubusercontent.com/igiteam/igi1-macbook-3d-workstation/refs/heads/main/wine-engine-config.png)](https://github.com/igiteam/wine_engines)
+
+
+## Reference links
+[S.T.A.L.K.E.R.: Oblivion Lost build 1098](https://www.betaarchive.com/wiki/index.php?title=S.T.A.L.K.E.R./1098)
+
+[S.T.A.L.K.E.R.: Oblivion Lost build 1114](https://www.betaarchive.com/wiki/index.php?title=S.T.A.L.K.E.R./1114)
+
+[S.T.A.L.K.E.R.: Oblivion Lost build 1153](https://www.betaarchive.com/wiki/index.php?title=S.T.A.L.K.E.R./1153)
+
+[S.T.A.L.K.E.R.: Oblivion Lost build 1154](https://www.betaarchive.com/wiki/index.php?title=S.T.A.L.K.E.R./1154)
+
+[S.T.A.L.K.E.R.: Oblivion Lost build 1229](https://www.betaarchive.com/wiki/index.php?title=S.T.A.L.K.E.R./1229)
+
+[S.T.A.L.K.E.R.: Oblivion Lost build 1230](https://www.betaarchive.com/wiki/index.php?title=S.T.A.L.K.E.R./1230)
+
+[S.T.A.L.K.E.R.: Oblivion Lost build 1254](https://www.betaarchive.com/wiki/index.php?title=S.T.A.L.K.E.R./1254)
+
+[S.T.A.L.K.E.R.: Oblivion Lost build 1265](https://www.betaarchive.com/wiki/index.php?title=S.T.A.L.K.E.R./1265)
+
+[S.T.A.L.K.E.R.: Oblivion Lost build 1465](https://www.betaarchive.com/wiki/index.php?title=S.T.A.L.K.E.R./1465)
+
+[S.T.A.L.K.E.R.: Oblivion Lost build 1469](https://www.betaarchive.com/wiki/index.php?title=S.T.A.L.K.E.R./1469)
+
+[S.T.A.L.K.E.R.: Oblivion Lost build 1472](https://www.betaarchive.com/wiki/index.php?title=S.T.A.L.K.E.R./1472)
+
+[S.T.A.L.K.E.R.: Oblivion Lost build 1475](https://www.betaarchive.com/wiki/index.php?title=S.T.A.L.K.E.R./1475)
+
+[S.T.A.L.K.E.R.: Oblivion Lost build 1510](https://www.betaarchive.com/wiki/index.php?title=S.T.A.L.K.E.R./1510)
+
+[S.T.A.L.K.E.R.: Oblivion Lost build 1512](https://www.betaarchive.com/wiki/index.php?title=S.T.A.L.K.E.R./1512)
+
+[S.T.A.L.K.E.R.: Oblivion Lost build 1537](https://www.betaarchive.com/wiki/index.php?title=S.T.A.L.K.E.R./1537)
+
+[S.T.A.L.K.E.R.: Oblivion Lost build 1558](https://www.betaarchive.com/wiki/index.php?title=S.T.A.L.K.E.R./1558)
+
+[S.T.A.L.K.E.R.: Oblivion Lost build 1567](https://www.betaarchive.com/wiki/index.php?title=S.T.A.L.K.E.R./1567)
+
+[S.T.A.L.K.E.R.: Oblivion Lost build 1569](https://www.betaarchive.com/wiki/index.php?title=S.T.A.L.K.E.R./1569)
+
+[S.T.A.L.K.E.R.: Oblivion Lost build 1580](https://www.betaarchive.com/wiki/index.php?title=S.T.A.L.K.E.R./1580)
+
+[S.T.A.L.K.E.R.: Oblivion Lost build 1610](https://www.betaarchive.com/wiki/index.php?title=S.T.A.L.K.E.R./1610)
+
+[S.T.A.L.K.E.R.: Oblivion Lost build 1616](https://www.betaarchive.com/wiki/index.php?title=S.T.A.L.K.E.R./1616)
+
+[S.T.A.L.K.E.R.: Oblivion Lost build 1623](https://www.betaarchive.com/wiki/index.php?title=S.T.A.L.K.E.R./1623)
+
+[S.T.A.L.K.E.R.: Oblivion Lost build 1629](https://www.betaarchive.com/wiki/index.php?title=S.T.A.L.K.E.R./1629)
+
+[S.T.A.L.K.E.R.: Oblivion Lost build 1632](https://www.betaarchive.com/wiki/index.php?title=S.T.A.L.K.E.R./1632)
+
+[S.T.A.L.K.E.R.: Oblivion Lost build 1828](https://www.betaarchive.com/wiki/index.php?title=S.T.A.L.K.E.R./1828)
+
+[S.T.A.L.K.E.R.: Oblivion Lost build 1829](https://www.betaarchive.com/wiki/index.php?title=S.T.A.L.K.E.R./1829)
+
+[S.T.A.L.K.E.R.: Oblivion Lost build 1834](https://www.betaarchive.com/wiki/index.php?title=S.T.A.L.K.E.R./1834)
+
+[S.T.A.L.K.E.R.: Oblivion Lost build 1835](https://www.betaarchive.com/wiki/index.php?title=S.T.A.L.K.E.R./1835)
+
+[S.T.A.L.K.E.R.: Oblivion Lost build 1844](https://www.betaarchive.com/wiki/index.php?title=S.T.A.L.K.E.R./1844)
+
+[S.T.A.L.K.E.R.: Oblivion Lost build 1849](https://www.betaarchive.com/wiki/index.php?title=S.T.A.L.K.E.R./1849)
+
+[S.T.A.L.K.E.R.: Oblivion Lost build 1851](https://www.betaarchive.com/wiki/index.php?title=S.T.A.L.K.E.R./1851)
+
+
 <div align="center">
   <p>
     <a href="https://github.com/OpenXRay">

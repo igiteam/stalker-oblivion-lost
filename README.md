@@ -13,25 +13,25 @@ Based on original  Build 1114
 
 [![S.T.A.L.K.E.R. Oblivion Lost: Build 1114 - All Weapons](https://img.youtube.com/vi/8B4xZpFzqyE/maxresdefault.jpg)](https://ytembed.macosxjs.com/?OEI0eFpwRnpxeUU)
 
-[![S.T.A.L.K.E.R.: Oblivion Lost - The first movie](https://img.youtube.com/vi/KGVjZxFQXaE/maxresdefault.jpg)](https://ytembed.macosxjs.com/?S0dWalp4RlFYYUU)
+[![S.T.A.L.K.E.R.: Oblivion Lost - The first movie](https://img.youtube.com/vi/KGVjZxFQXaE/hqdefault.jpg)](https://ytembed.macosxjs.com/?S0dWalp4RlFYYUU)
 
 [![S.T.A.L.K.E.R. Oblivion Lost: build 1114 demo2_zakat](https://img.youtube.com/vi/WV4HR6Sle_A/maxresdefault.jpg)](https://ytembed.macosxjs.com/?V1Y0SFI2U2xlX0E)
 
-[![STALKER - build 1114 - Escape](https://img.youtube.com/vi/QYN9tamvVUs/maxresdefault.jpg)](https://ytembed.macosxjs.com/?UVlOOXRhbXZWVXM)
+[![STALKER - build 1114 - Escape](https://img.youtube.com/vi/QYN9tamvVUs/hqdefault.jpg)](https://ytembed.macosxjs.com/?UVlOOXRhbXZWVXM)
 
 [![S.T.A.L.K.E.R.: Oblivion Lost build 1844 original springboard anomaly](https://img.youtube.com/vi/u6NEmweElLk/maxresdefault.jpg)](https://ytembed.macosxjs.com/?dTZORW13ZUVsTGs)
 
 [![S.T.A.L.K.E.R.: Oblivion Lost - Build 1154 (Demo August 22nd, 2002)](https://img.youtube.com/vi/ajFwmkuLLZQ/maxresdefault.jpg)](https://ytembed.macosxjs.com/?YWpGd21rdUxMWlE)
 
-[![S.T.A.L.K.E.R. Builds 1917, 1925, 1964 and 1971 (2004)](https://img.youtube.com/vi/BxUvYWP5jzg/maxresdefault.jpg)](https://ytembed.macosxjs.com/?QnhVdllXUDVqemc)
+[![S.T.A.L.K.E.R. Builds 1917, 1925, 1964 and 1971 (2004)](https://img.youtube.com/vi/BxUvYWP5jzg/hqdefault.jpg)](https://ytembed.macosxjs.com/?QnhVdllXUDVqemc)
 
-[![STALKER Alpha Build 1935 - Gameplay 2004](https://img.youtube.com/vi/Z0JwJXiJQh4/maxresdefault.jpg)](https://ytembed.macosxjs.com/?WjBKd0pYaUpRaDQ)
+[![STALKER Alpha Build 1935 - Gameplay 2004](https://img.youtube.com/vi/Z0JwJXiJQh4/hqdefault.jpg)](https://ytembed.macosxjs.com/?WjBKd0pYaUpRaDQ)
 
 [![S.T.A.L.K.E.R.: Oblivion Lost - Build 1844 - Walkthrough](https://img.youtube.com/vi/oCmcof5b62M/maxresdefault.jpg)](https://ytembed.macosxjs.com/?b0NtY29mNWI2Mk0)
 
-[![S.T.A.L.K.E.R. Oblivion Lost Trailer 2002](https://img.youtube.com/vi/mVZ3wgHQHzg/maxresdefault.jpg)](https://ytembed.macosxjs.com/?bVZaM3dnSFFIemc)
+[![S.T.A.L.K.E.R. Oblivion Lost Trailer 2002](https://img.youtube.com/vi/mVZ3wgHQHzg/hqdefault.jpg)](https://ytembed.macosxjs.com/?bVZaM3dnSFFIemc)
 
-[![S.T.A.L.K.E.R.: Oblivion Lost - 2003 Tech Trailer](https://img.youtube.com/vi/oqQt-C6KB_8/maxresdefault.jpg)](https://ytembed.macosxjs.com/?b3FRdC1DNktCXzg)
+[![S.T.A.L.K.E.R.: Oblivion Lost - 2003 Tech Trailer](https://img.youtube.com/vi/oqQt-C6KB_8/hqdefault.jpg)](https://ytembed.macosxjs.com/?b3FRdC1DNktCXzg)
 
 ## WS11WineCX20.0.4 (MacOSX Big Sur 32bit)
 [WS11WineCX20.0.4.tar.7z](https://github.com/vitor251093/porting-kit-engines/releases/download/wineskin/WS11WineCX20.0.4.tar.7z)
@@ -296,3 +296,41 @@ Thank you for your support!
   * [PVS-Studio LLC](https://pvs-studio.com/pvs-studio/?utm_source=website&utm_medium=github&utm_campaign=open_source) – thanks for proving us a [free licence](https://pvs-studio.ru/ru/order/open-source-license/?utm_source=website&utm_medium=github&utm_campaign=open_source) for PVS-Studio, a static analyzer for C, C++, C#, and Java code.
 
 If your work is being used in our project and you are not mentioned here or in the [contributors page](https://github.com/OpenXRay/xray-16/graphs/contributors), please, write to us and we will add you. Or send us a pull request with you added to this list ;)
+
+
+
+## Dev Environment
+
+**Official White Wii Remote With Nunchuk — Tested And Working — £14.99**
+[https://www.ebay.co.uk/itm/800847189353](https://www.ebay.co.uk/itm/800847189353)
+
+**Infrared Sensor Bar USB for Wii Emulator Remote Motion Detection Setup — £6.69**
+[https://www.ebay.co.uk/itm/227423830875](https://www.ebay.co.uk/itm/227423830875)
+
+**Apple MacBook Pro Retina 15in (2014) i7 2.8GHz 16GB 1TB SSD GT 750M — £120.30**
+[https://www.ebay.co.uk/itm/800844561513](https://www.ebay.co.uk/itm/800844561513)
+
+**WS11WineCX20.0.4 (Wine engine)**
+[https://igiteam.github.io/wine_engines/](https://igiteam.github.io/wine_engines/)
+
+**Official Genuine Sony PS3 PlayStation 3 DualShock 3 Wireless Controller Black — £19.99**
+[https://www.ebay.co.uk/itm/840031043465](https://www.ebay.co.uk/itm/840031043465)
+
+**Amazon Basics 4K HDMI Cable 3m — 18Gbps High Speed with Ethernet, 4K@60Hz, 2160p — £8.44**
+[https://www.ebay.co.uk/itm/327352257557](https://www.ebay.co.uk/itm/327352257557)
+
+**wiimote_nunchuk_macosx**
+[https://github.com/igiteam/wiimote-nunchuk](https://github.com/igiteam/wiimote-nunchuk)
+
+**xbox360_input_gui_py**
+[https://github.com/igiteam/xbox360_input_gui_py](https://github.com/igiteam/xbox360_input_gui_py)
+
+**logitec_mx_mouse_3_macos**
+[https://github.com/igiteam/logitec_mx_mouse_3_macos](https://github.com/igiteam/logitec_mx_mouse_3_macos)
+
+**igi1-macbook-3d-workstation**
+[https://github.com/igiteam/igi1-macbook-3d-workstation](https://github.com/igiteam/igi1-macbook-3d-workstation)
+
+---
+
+

@@ -11,7 +11,7 @@ Based on original  Build 1114
 
 
 
-[![S.T.A.L.K.E.R. Oblivion Lost: Build 1114 - All Weapons](https://img.youtube.com/vi/8B4xZpFzqyE/maxresdefault.jpg)](https://ytembed.macosxjs.com/?OEI0eFpwRnpxeUU)
+[![S.T.A.L.K.E.R. Oblivion Lost: Build 1114 - All Weapons](https://raw.githubusercontent.com/igiteam/stalker-oblivion-lost/refs/heads/dev/stalker-oblivion-lost-fn-f2000.png)](https://ytembed.macosxjs.com/?OEI0eFpwRnpxeUU)
 
 [![S.T.A.L.K.E.R.: Oblivion Lost - The first movie](https://img.youtube.com/vi/KGVjZxFQXaE/hqdefault.jpg)](https://ytembed.macosxjs.com/?S0dWalp4RlFYYUU)
 
